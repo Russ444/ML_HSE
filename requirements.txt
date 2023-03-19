@@ -1,0 +1,6 @@
+Flask==2.2.3
+joblib==1.2.0
+nltk==3.8.1
+scikit_learn==1.2.2
+stop_words==2018.7.23
+Werkzeug==2.2.3
